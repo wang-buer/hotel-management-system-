@@ -1,6 +1,7 @@
 # 酒店管理系统
 
 扫描下方，无需转发，回复关键词 “**酒店2** ” ，后台自动发送源码链接。
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -31,36 +32,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512214419.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/20220512214419.jpg)
 
 ### 4.2 系统模块
 
-![客房预定](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512212842.jpg)
+![客房预定](https://www.codeshop.fun/Typora-Images/20220512212842.jpg)
 
-![楼层管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512212846.jpg)
+![楼层管理](https://www.codeshop.fun/Typora-Images/20220512212846.jpg)
 
-![员工管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512212849.jpg)
+![员工管理](https://www.codeshop.fun/Typora-Images/20220512212849.jpg)
 
-![房间类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512212854.jpg)
+![房间类型管理](https://www.codeshop.fun/Typora-Images/20220512212854.jpg)
 
-![日志管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512212857.jpg)
+![日志管理](https://www.codeshop.fun/Typora-Images/20220512212857.jpg)
 
-![数据查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512212900.jpg)
+![数据查询](https://www.codeshop.fun/Typora-Images/20220512212900.jpg)
 
-![更换壁纸](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512212918.jpg)
+![更换壁纸](https://www.codeshop.fun/Typora-Images/20220512212918.jpg)
 
 具体包括各个功能模块的增加、删除、修改和查询等，以及前端信息的校验，例如手机号和身份证号位数是否符合要求、用户名是否合格等功能
 
 ## 4.3ER图
 
-![ER图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220512214150.jpg)
-
-## 5、获取方式
-
-扫描下方，无需转发，回复 “**酒店2** ” ，后台自动发送源码链接。
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![ER图](https://www.codeshop.fun/Typora-Images/20220512214150.jpg)
 
 
-  
 
